@@ -161,4 +161,5 @@ cython_debug/
 
 # Microsoft files
 *.xlsx
-# xlsx
+.xlsx
+# xlsxdebug.log
